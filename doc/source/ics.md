@@ -321,7 +321,10 @@ This source has been successfully tested with the following service providers:
 - [Friedrichsdorf](/doc/ics/mein_abfallkalender_online.md) / friedrichsdorf.de
 - [Gelber Sack Stuttgart](/doc/ics/gelbersack_stuttgart_de.md) / gelbersack-stuttgart.de
 - [Gelsendienste Gelsenkirchen](/doc/ics/gelsendienste_de.md) / gelsendienste.de
+- [Gemeinde Hille](/doc/ics/hille_de.md) / hille.de
 - [Gemeinde Hüllhorst](/doc/ics/huellhorst_de.md) / huellhorst.de
+- [Gemeinde Neuberg](/doc/ics/neuberg_de.md) / neuberg.eu
+- [Gemeinde Rödinghausen](/doc/ics/abfall_export_vcal.md) / roedinghausen.de
 - [Ginsheim-Gustavsburg](/doc/ics/gigu_de.md) / gigu.de
 - [Gipsprojekt](/doc/ics/gipsprojekt_de.md) / gipsprojekt.de
 - [Gräfelfing](/doc/ics/mein_abfallkalender_online.md) / graefelfing.de
@@ -334,6 +337,7 @@ This source has been successfully tested with the following service providers:
 - [Homburg](/doc/ics/mein_abfallkalender_online.md) / homburg.de
 - [Karben](/doc/ics/mein_abfallkalender_online.md) / karben.de
 - [KECL Kommunalentsorgung Chemnitzer Land](/doc/ics/kecl_de.md) / kecl.de
+- [Kelkheim (Taunus)](/doc/ics/kelkheim_de.md) / kelkheim.de/mod_abfallkalender
 - [Kirchhain](/doc/ics/abfall_export_vcal.md) / kirchhain.de
 - [Knittel Entsorgung](/doc/ics/knittel_entsorgung_com.md) / knittel-entsorgung.com
 - [Kreis Steinburg](/doc/ics/steinburg_de.md) / steinburg.de
@@ -392,11 +396,13 @@ This source has been successfully tested with the following service providers:
 - [Stadt Osnabrück](/doc/ics/osnabrueck_de.md) / osnabrueck.de
 - [Stadt Saarlouis](/doc/ics/mein_abfallkalender_online.md) / saarlouis.de
 - [Stadt Spenge](/doc/ics/spenge_de.md) / spenge.de
+- [Stadt Tengen](/doc/ics/tengen_de.md) / tengen.de
 - [Stadt Vlotho](/doc/ics/abfall_export_vcal.md) / vlotho.de
 - [Stadt Wetzlar](/doc/ics/wetzlar_de.md) / wetzlar.de
 - [Stadtbetrieb Frechen](/doc/ics/stadtbetrieb_frechen_de.md) / stadtbetrieb-frechen.de
 - [Stadtentsorgung Rostock](/doc/ics/stadtentsorgung_rostock_de.md) / stadtentsorgung-rostock.de
 - [Stadtreinigung Leipzig](/doc/ics/stadtreinigung_leipzig_de.md) / stadtreinigung-leipzig.de
+- [Stadtwerke Aschaffenburg](/doc/ics/gipsprojekt_de.md) / stwab.de/Abfall-Stadtreinigung/Muellabfuhr/Abfuhrtermine-und-Bezirk
 - [Stadtwerke Bergheim](/doc/ics/swbm_de.md) / swbm.de
 - [Stadtwerke Hürth](/doc/ics/stadtwerke_huerth_de.md) / stadtwerke-huerth.de
 - [Stadtwerke Speyer](/doc/ics/gipsprojekt_de.md) / stadtwerke-speyer.de/muellkalender
@@ -501,6 +507,7 @@ This source has been successfully tested with the following service providers:
 - [City of Houston, TX](/doc/ics/recollect.md) / houstontx.gov
 - [City of Lowell, MA](/doc/ics/recollect.md) / lowellma.gov
 - [City of McKinney, TX](/doc/ics/recollect.md) / mckinneytexas.org
+- [City of Raleigh, NC](/doc/ics/recollect.md) / raleighnc.gov/landfill-and-reuse/services/raleigh-reuse-web-tool-and-mobile-app
 - [Davenport, Iowa, USA](/doc/ics/recollect.md) / davenportiowa.com
 - [Hardin Sanitation, Idaho, USA](/doc/ics/recollect.md) / hardinsanitation.com
 - [ReCollect](/doc/ics/recollect.md) / recollect.net
